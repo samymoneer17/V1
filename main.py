@@ -12,7 +12,7 @@ from telebot.apihelper import ApiTelegramException
 import tempfile
 
 # ---------------- CONFIG (محدث بناء على طلبك) ----------------
-TOKEN = "8218231393:AAFpUEzTD2beyO1Ai91AyGHX8e5FsMlS7_"  # <-- توكن البوت الجديد
+TOKEN = "8218231393:AAFpUEzTD2beyO1Ai91AyGHX8e5FsMlS7_8"  # <-- توكن البوت الجديد
 OWNER_ID = 8418469217  # ايدي الادمن/المالِك
 BOT_USERNAME = "VTIGSBOT"  # اسم البوت بدون @
 DATA_FILE = "deeiaIIta.json"
